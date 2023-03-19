@@ -1,0 +1,15 @@
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\obj\Debug\net6.0\find_odd_even.csproj.AssemblyReference.cache
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\obj\Debug\net6.0\find_odd_even.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\obj\Debug\net6.0\find_odd_even.AssemblyInfoInputs.cache
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\obj\Debug\net6.0\find_odd_even.AssemblyInfo.cs
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\obj\Debug\net6.0\find_odd_even.csproj.CoreCompileInputs.cache
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\bin\Debug\net6.0\find_odd_even.exe
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\bin\Debug\net6.0\find_odd_even.deps.json
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\bin\Debug\net6.0\find_odd_even.runtimeconfig.json
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\bin\Debug\net6.0\find_odd_even.dll
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\bin\Debug\net6.0\find_odd_even.pdb
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\obj\Debug\net6.0\find_odd_even.dll
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\obj\Debug\net6.0\refint\find_odd_even.dll
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\obj\Debug\net6.0\find_odd_even.pdb
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\obj\Debug\net6.0\find_odd_even.genruntimeconfig.cache
+D:\Work\Test_Web_Developer\Test_1\find_odd_even\obj\Debug\net6.0\ref\find_odd_even.dll
